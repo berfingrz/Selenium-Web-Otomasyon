@@ -1,0 +1,4 @@
+Ben projede Microsoft Edge Driver kullandım. Gereksiz yer kaplamaması adına Git yüklenmemiştir.
+
+Kullanım isteğinize bağlı olarak BaseTest.java içerisinde setUp() methodunu System.setProperty den path i düzenleyebilirsiniz.
+
